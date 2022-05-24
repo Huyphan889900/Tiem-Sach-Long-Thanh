@@ -7,7 +7,7 @@ using TiệmSáchLongThành.Models.ViewModels;
 using System.Collections.Generic;
 using TiệmSáchLongThành.Models.ViewModels;
 
-namespace BooksStore.MyTagHelper
+namespace TiệmSáchLongThành.MyTagHelper
 {
     [HtmlTargetElement("div", Attributes = "page-model")]
     public class MyPageLink : TagHelper
